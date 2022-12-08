@@ -1,3 +1,5 @@
+![Yury](//0ZtL8ZV1aRuEF91zI0ecIpHxeUP3rSkHngIpCoRdFERK5BJmtTqPPWNJTXSzrre0e_Jlpc7plJN1Ich3Hfpcancf.jpg)
+
 # Yury Ostapchuk
 
 ## My contact info
@@ -25,3 +27,11 @@ numberToString=(num) => num = String(num)
 ```
 
 ## Education
+
+- BSUIR
+  - Engineering and psychological support of information technologies
+
+## Languages
+
+- Russian: native speaker
+- English: A1(A2 in process, I try to learn English in every possible way.)
