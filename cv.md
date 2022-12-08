@@ -1,5 +1,3 @@
-![Yury](//0ZtL8ZV1aRuEF91zI0ecIpHxeUP3rSkHngIpCoRdFERK5BJmtTqPPWNJTXSzrre0e_Jlpc7plJN1Ich3Hfpcancf.jpg)
-
 # Yury Ostapchuk
 
 ## My contact info
