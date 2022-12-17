@@ -1,0 +1,116 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: rgb(247, 211, 247);
+  font-family: "Mukta", sans-serif;
+}
+div,
+section,
+main {
+  display: block;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.profile-backgroung {
+  background: url(/assets/img/back1.jpg);
+  background-size: cover;
+  position: relative;
+  display: flex;
+  border-radius: 20px;
+  height: 50vh;
+  box-shadow: 0 0 10px gray;
+  margin-bottom: 20px;
+}
+.img img {
+  position: absolute;
+  overflow: hidden;
+  top: 30px;
+  left: 50px;
+  border-radius: 20%;
+}
+.name {
+  position: absolute;
+  left: 450px;
+  color: bisque;
+  top: 30px;
+  font-size: 2rem;
+}
+.contact-info {
+  line-height: 1.5;
+  position: absolute;
+  left: 470px;
+  color: bisque;
+  top: 200px;
+  font-size: 2rem;
+}
+
+.cover {
+  font-size: 1rem;
+  background-color: rgb(247, 211, 247);
+  margin-bottom: 50px;
+  margin-top: 75px;
+}
+.container {
+  width: 1040px;
+  margin: 30px auto 0;
+}
+.skills,
+.about,
+.education,
+.code {
+  box-shadow: 0 0 10px rgba(255, 0, 251, 0.42);
+  border-radius: 20px;
+  height: 325px;
+  background-color: white;
+  padding: 10px;
+  width: 520px;
+  font-size: 1.5rem;
+  margin: 20px 10px;
+}
+
+.info,
+.info-2 {
+  display: flex;
+}
+.list-kn,
+.ln {
+  padding: 0 20px;
+}
+.cv {
+  position: relative;
+  top: 20px;
+  text-align: center;
+}
+.h4 {
+  text-align: center;
+  margin-bottom: 7px;
+  margin-top: 7px;
+}
+.about:hover,
+.skills:hover,
+.code:hover,
+.education:hover {
+  background-color: rgb(247, 211, 247);
+}
+
+.links {
+  width: auto;
+  height: 50px;
+  display: flex;
+  justify-content: space-between;
+}
+.footer img {
+  opacity: 60%;
+}
+.footer img:hover {
+  opacity: 100%;
+}
+.year {
+  position: relative;
+  bottom: 10px;
+  left: 60px;
+}
