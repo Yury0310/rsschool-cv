@@ -16,7 +16,7 @@ main {
   box-sizing: border-box;
 }
 .profile-backgroung {
-  background: url(/assets/img/back1.jpg);
+  background: url(./assets/img/back1.jpg);
   background-size: cover;
   position: relative;
   display: flex;
