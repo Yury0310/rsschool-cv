@@ -28,24 +28,23 @@ main {
 .img img {
   position: absolute;
   overflow: hidden;
-  top: 30px;
+  top: 17px;
   left: 50px;
   border-radius: 20%;
 }
 .name {
   position: absolute;
-  left: 450px;
+  left: 350px;
   color: bisque;
   top: 30px;
   font-size: 2rem;
 }
 .contact-info {
-  line-height: 1.5;
   position: absolute;
-  left: 470px;
+  left: 400px;
   color: bisque;
-  top: 200px;
-  font-size: 2rem;
+  top: 170px;
+  font-size: 1.5rem;
 }
 
 .cover {
